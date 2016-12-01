@@ -1,3 +1,4 @@
 #test will not pull
 test
-three.txt
+*.txt
+!five.txt
